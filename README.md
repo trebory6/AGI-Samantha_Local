@@ -62,4 +62,4 @@ Think of a thing that the human mind can do that LLM "Cannot", then implement it
 But most importantly: Smaller models each trained specifically to do the job of one of the modules will greatly increase quality, and decrease cost and latency.
 
 Contact: 
-pedroschindler@gmail.com
+pedroschindler964@gmail.com
