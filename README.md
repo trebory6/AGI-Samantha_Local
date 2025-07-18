@@ -1,3 +1,9 @@
+## Fork Explanation:
+
+Currently re-writing this to be used with Local LLMs as opposed to OpenAI. 
+
+Also might adjust the personality to be more like M3gan than Samantha. 
+
 ## Samantha from the movie Her is here: 
 
 An autonomous agent for conversations capable of freely thinking and speaking, continuously. Creating an unparalleled sense of realism and dynamicity.
