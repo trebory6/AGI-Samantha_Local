@@ -1,0 +1,7 @@
+openai
+flask
+flask-socketio
+requests
+playsound
+speechrecognition
+tenacity
